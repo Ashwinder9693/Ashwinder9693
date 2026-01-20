@@ -4,8 +4,8 @@
 
 ### Full Stack Developer | Problem Solver | Open Source Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinder-singh-bhupal-5b1220206/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinder-singh-5b1220206/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://onlyjobs.work)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashwinder9693&color=blueviolet&style=for-the-badge)
@@ -86,99 +86,90 @@ const ashwinder = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashwinder9693&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinder9693&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwinder9693&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashwinder9693&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Ashwinder9693&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwinder9693&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinder9693&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinder9693&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ashwinder9693&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Ashwinder9693/Ashwinder9693/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashwinder9693&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/Ashwinder9693/Railway-booking-System">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ashwinder9693&repo=Railway-booking-System&theme=tokyonight&hide_border=true" alt="Railway Booking System" />
+  </a>
+  <a href="https://github.com/Ashwinder9693/FinalHACKTCNJ">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ashwinder9693&repo=FinalHACKTCNJ&theme=tokyonight&hide_border=true" alt="FinalHACKTCNJ" />
+  </a>
+</p>
 
-[![Railway Booking System](https://github-readme-stats.vercel.app/api/pin/?username=Ashwinder9693&repo=Railway-booking-System&theme=tokyonight&hide_border=true)](https://github.com/Ashwinder9693/Railway-booking-System)
-[![FinalHACKTCNJ](https://github-readme-stats.vercel.app/api/pin/?username=Ashwinder9693&repo=FinalHACKTCNJ&theme=tokyonight&hide_border=true)](https://github.com/Ashwinder9693/FinalHACKTCNJ)
-[![NJIT Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=Ashwinder9693&repo=team6_NJITHackathon&theme=tokyonight&hide_border=true)](https://github.com/Ashwinder9693/team6_NJITHackathon)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Ashwinder9693/team6_NJITHackathon">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ashwinder9693&repo=team6_NJITHackathon&theme=tokyonight&hide_border=true" alt="NJIT Hackathon" />
+  </a>
+</p>
 
 ---
 
-## 📚 Latest Blog Posts
+## 📚 What I'm Working On
 
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Building Scalable Web Applications
-- Coming Soon: Understanding Microservices Architecture
-- Coming Soon: Best Practices for React Development
-<!-- BLOG-POST-LIST:END -->
+- 🔨 Building innovative full-stack applications
+- 🌐 Contributing to open-source projects
+- 📖 Learning advanced cloud architecture patterns
+- 💡 Exploring AI/ML integration in web applications
+- ✍️ Sharing knowledge through technical blogs
+
+---
+
+## 🎯 Goals for 2026
+
+- 🔭 Contributing to more open-source projects
+- 🌱 Mastering cloud architecture with AWS/GCP
+- 👯 Building and launching SaaS products
+- 📝 Writing technical blogs regularly
+- 🎓 Learning Kubernetes and advanced DevOps practices
+- 🤝 Mentoring aspiring developers
 
 ---
 
 ## 💡 Random Dev Quote
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Current Goals for 2026
-
-- 🔭 Contributing to more open-source projects
-- 🌱 Mastering cloud architecture patterns
-- 👯 Collaborating on innovative full-stack applications
-- 📝 Writing technical blogs regularly
-- 🎓 Learning Kubernetes and advanced DevOps practices
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 ---
 
 ## 📫 Let's Connect!
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwinder_Singh_Bhupal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinder-singh-bhupal-5b1220206/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashwinder-singh-5b1220206/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwinder_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://onlyjobs.work">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:Ashwinderbhupal6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
@@ -188,7 +179,7 @@ const ashwinder = {
 
 ### Show some ❤️ by starring some of my repositories!
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave" />
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
