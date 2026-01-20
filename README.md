@@ -104,7 +104,11 @@ const ashwinder = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ashwinder9693&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwinder9693&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=27&custom_title=GitHub%20Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwinder9693&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
