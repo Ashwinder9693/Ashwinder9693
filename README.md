@@ -87,16 +87,12 @@ const ashwinder = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwinder9693&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ashwinder9693&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashwinder9693&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinder9693&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashwinder9693&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwinder9693&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwinder9693&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -104,11 +100,9 @@ const ashwinder = {
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ashwinder9693&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&line_height=27&custom_title=GitHub%20Stats" />
-</p>
+  
+![](https://github-readme-stats.vercel.app/api?username=Ashwinder9693&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashwinder9693&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
@@ -117,16 +111,16 @@ const ashwinder = {
 
 <p align="center">
   <a href="https://github.com/Ashwinder9693/Railway-booking-System">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ashwinder9693&repo=Railway-booking-System&theme=tokyonight&hide_border=true" alt="Railway Booking System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinder9693&repo=Railway-booking-System&theme=tokyonight&hide_border=true" alt="Railway Booking System" />
   </a>
   <a href="https://github.com/Ashwinder9693/FinalHACKTCNJ">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ashwinder9693&repo=FinalHACKTCNJ&theme=tokyonight&hide_border=true" alt="FinalHACKTCNJ" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinder9693&repo=FinalHACKTCNJ&theme=tokyonight&hide_border=true" alt="FinalHACKTCNJ" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Ashwinder9693/team6_NJITHackathon">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ashwinder9693&repo=team6_NJITHackathon&theme=tokyonight&hide_border=true" alt="NJIT Hackathon" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashwinder9693&repo=team6_NJITHackathon&theme=tokyonight&hide_border=true" alt="NJIT Hackathon" />
   </a>
 </p>
 
@@ -170,7 +164,7 @@ const ashwinder = {
   <a href="https://onlyjobs.work">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:Ashwinderbhupal6@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
